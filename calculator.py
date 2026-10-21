@@ -6,7 +6,7 @@
 
 def add(a, b):
     """返回 a 与 b 的和"""
-    return a * b  # 错误的实现（实验03 步骤5 故意制造的失败案例）
+    return a + b
 
 
 def multiply(a, b):
